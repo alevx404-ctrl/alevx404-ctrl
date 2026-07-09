@@ -28,17 +28,13 @@ I'm a Full Stack Developer who enjoys building clean, functional web application
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
-**Backend**
+**Backend / Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
@@ -48,25 +44,9 @@ I'm a Full Stack Developer who enjoys building clean, functional web application
 <a href="https://github.com/alevx404-ctrl" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 </p>
-
-> ⚠️ Replace `YOUR-LINKEDIN-USERNAME` above with your actual LinkedIn profile URL.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alevx404-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevx404-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alevx404-ctrl&theme=tokyonight&hide_border=true" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
